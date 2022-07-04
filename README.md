@@ -1,5 +1,5 @@
 ## Tentang Aplikasi
-Projek ini adalah sarana latihan untuk membuat sebuah aplikasi RestFul API menggunakan autentikasi Sanctum. Aplikasi ini memberikan fitur CRUD data barang yang dilindungi oleh autentikasi token Sanctum. 
+Projek ini adalah sarana latihan untuk membuat sebuah aplikasi RESTful API menggunakan autentikasi Sanctum. Aplikasi ini memberikan fitur CRUD data barang yang dilindungi oleh autentikasi token Sanctum. 
 
 ## Requirement
 
